@@ -2,6 +2,7 @@
 
 Projeto tem o objetivo de mostrar notas para quaisquer afins definidos pelo usuário. Foi desenvolvido para afins de acadêmicos e foi feito com suporte do curso de formação front-end.
 
+[👉🏻 Deploy](https://dev-notes-two.vercel.app/)
 ---
 
 ### Como usar? 🤔
